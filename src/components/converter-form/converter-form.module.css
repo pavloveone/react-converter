@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    justify-content: space-between;
+    margin: 50px auto;
+}
+.input {
+    text-align: right;
+}
+.span {
+    text-align: right;
+}
